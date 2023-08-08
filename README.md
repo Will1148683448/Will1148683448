@@ -7,11 +7,10 @@ This is my profile！
 
 -   👨‍🎓 Graduated from SDUT in 2023
 -   💼 Front-end development engineer
+-   🏐 basketball lover
 -   ✉️ will1148683448@gmail.com
 -   :hammer_and_pick: HTML / CSS / JavaScript / ES6 / TypeScript / Git
 -   🔩 Vue / React
--   :pencil2: [Arch Linux](https://wiki.archlinux.org/title/Arch_Linux) / [i3wm](https://i3wm.org/) / [Neovim](https://neovim.io/) / [nnn](https://github.com/jarun/nnn) / [yadm](https://github.com/TheLocehiliosan/yadm)
----
 
 <!--
 **Will1148683448/Will1148683448** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
